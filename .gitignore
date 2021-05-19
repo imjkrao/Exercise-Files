@@ -123,3 +123,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+chapter4/random.txt
+chapter4/random.npy
